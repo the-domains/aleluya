@@ -1,4 +1,3 @@
-layout_spectrum: 0.19435585546307266
 typography_spectrum: 0.19383951579220593
 color:
   brandStrength: 0.8516001582611352
@@ -11,5 +10,7 @@ color:
     - '#CFDBE9'
     - '#7C8194'
     - '#0C0C0B'
+layout_spectrum: 0.19435585546307266
 name: Aleluya
 title: Hola
+description: Test
