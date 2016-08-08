@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hola]]></title>
+        <description><![CDATA[Hola]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 18:31:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clash Royale: Goblin Hut (Official TV Commercial)]]></title>
+            <description><![CDATA[<article><h1>Clash Royale: Goblin Hut (Official TV Commercial)</h1><p>What happens in the Goblin Hut, doesn't stay in the Goblin Hut. Enter the Arena! From the creators of Clash of Clans comes a real-time multiplayer game starring the Royales, your favorite Clash characters and much, much more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad4d240f8b76f7d2753bf37762f079f2/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3z7HFpqa4OQ%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3z7HFpqa4OQ</link>
+            <guid isPermaLink="false">550dbbb7-f771-4ad8-8c7d-39361746338b</guid>
+            <pubDate>Mon, 08 Aug 2016 18:31:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
