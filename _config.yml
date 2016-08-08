@@ -1,16 +1,16 @@
-typography_spectrum: 0.19383951579220593
+typography_spectrum: 0.9593818241264671
 color:
-  brandStrength: 0.8516001582611352
-  lightness: 0.27543201739899814
-  saturation: 0.07749609625898302
-  rhythmicContrast: 0.11465723859146237
+  brandStrength: 0.7462963608559221
+  lightness: 0.910761812934652
+  saturation: 0.05202129506506026
+  rhythmicContrast: 0.1208961009979248
   brandColors:
-    - '#A3A6B5'
-    - '#3B3B43'
-    - '#CFDBE9'
-    - '#7C8194'
-    - '#0C0C0B'
-layout_spectrum: 0.19435585546307266
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+layout_spectrum: 0.38169368472881615
 name: Aleluya
 title: Hola
 description: Test
